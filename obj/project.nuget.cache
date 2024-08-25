@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JPt020LNg/DQ5rgypmUqnIgxx1WeabyPGG7zhSHGHfHw3wvkwdlBBhZit1kvgaun80WPDIJR6P2DuT1x3L11Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ronny\\OneDrive\\Documents\\JobApplication\\Apexa\\ApexaTechnicalApi\\ApexaTechnicalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronny\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\ronny\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ronny\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ronny\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ronny\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ronny\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ronny\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
