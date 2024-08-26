@@ -49,3 +49,4 @@ C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Deb
 C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\xunit.core.dll
 C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\BCrypt.Net-Next.dll

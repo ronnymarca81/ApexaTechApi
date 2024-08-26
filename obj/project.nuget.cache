@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xNDFf3ZVNXIvGm4LpsJr4c9XDFwyQC5nFMF+RYYn66rkkMvW8DySDnDP4+SWrIZVx7ycX8/FSiPWurthmY/RRg==",
+  "dgSpecHash": "X9qKlIhFR3An3TXJ7E+musBAwBLtQn9BfPQ3U5S/2mooRcA6o+rZmY5oT1Qf6fSAFgtCoR22lBWE0acTIeUhHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ronny\\OneDrive\\Documents\\JobApplication\\Apexa\\ApexaTechnicalApi\\ApexaTechnicalApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronny\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ronny\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\ronny\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\ronny\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "C:\\Users\\ronny\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\ronny\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
