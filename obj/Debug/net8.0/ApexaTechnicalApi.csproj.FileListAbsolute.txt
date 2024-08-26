@@ -43,3 +43,9 @@ C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\obj\Deb
 C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\obj\Debug\net8.0\ApexaTechnicalApi.pdb
 C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\obj\Debug\net8.0\ApexaTechnicalApi.genruntimeconfig.cache
 C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\obj\Debug\net8.0\ref\ApexaTechnicalApi.dll
+C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\xunit.core.dll
+C:\Users\ronny\OneDrive\Documents\JobApplication\Apexa\ApexaTechnicalApi\bin\Debug\net8.0\xunit.execution.dotnet.dll
